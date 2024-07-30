@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment 2 Abel Serracin</string>
+    <string-array name="unit_options">
+        <item>CM to Inches</item>
+        <item>Inches to CM</item>
+    </string-array>
+</resources>

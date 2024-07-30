@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assignment_2_Abel_Serracin" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+
+    </style>
+
+    <style name="Theme.Assignment_2_Abel_Serracin" parent="Base.Theme.Assignment_2_Abel_Serracin" />
+</resources>
